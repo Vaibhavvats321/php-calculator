@@ -1,0 +1,24 @@
+body{
+    background-color: blueviolet;
+        text-align: center;
+        justify-content: center;
+    }
+
+    #headerSection{
+        padding: 10px;
+        font-family:cursive;
+    }
+
+    
+#vaibhav{
+    background-color: #00000047;
+    margin: 0 350px;
+    border-radius: 50px;
+    padding:100px 0px;
+}
+input{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
