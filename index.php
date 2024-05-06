@@ -5,7 +5,6 @@ $y= "";
 $result= "";
 
 echo "hello";
-echo "pawan";
  if(isset($_GET['operation'])){
     $x = $_GET['num1'];
     $y= $_GET['num2'];
